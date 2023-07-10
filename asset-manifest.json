@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Real-Time-Weather-App/static/css/main.eca54538.css",
+    "main.js": "/Real-Time-Weather-App/static/js/main.ce36cd25.js",
+    "static/js/787.b30f2593.chunk.js": "/Real-Time-Weather-App/static/js/787.b30f2593.chunk.js",
+    "index.html": "/Real-Time-Weather-App/index.html",
+    "main.eca54538.css.map": "/Real-Time-Weather-App/static/css/main.eca54538.css.map",
+    "main.ce36cd25.js.map": "/Real-Time-Weather-App/static/js/main.ce36cd25.js.map",
+    "787.b30f2593.chunk.js.map": "/Real-Time-Weather-App/static/js/787.b30f2593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca54538.css",
+    "static/js/main.ce36cd25.js"
+  ]
+}
